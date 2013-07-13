@@ -1,7 +1,7 @@
 package main
 
 import (
-  "bufio"
+	"bufio"
 	"flag"
 	"fmt"
 	"github.com/jlaffaye/goftp"
